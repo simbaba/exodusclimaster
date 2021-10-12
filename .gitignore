@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+.vscode
+.idea
+package-lock.json
+*.log
+build/
+.eslintcache
+!packages/cli/src/commands/init/__fixtures__/editTemplate/node_modules
+*.tsbuildinfo
+.cache
+.watchmanconfig
+coverage
+!packages/platform-ios/src/config/__fixtures__/native_modules/node_modules
